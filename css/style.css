@@ -8,7 +8,9 @@
 @import './global/header.css';
 /* Utilidades */
 @import './utilidades/componentes.css';
-/* Home */
+/* Introdução */
 @import './home/introducao.css';
+/* Tecnologia */
+@import './home/tecnologia.css';
 /* Bicicletas */
 @import './bicicletas/bicicletas-lista.css';
